@@ -27,3 +27,12 @@ git clone https://github.com/XuuuuJH-OvO/UDA4HeartSeg.git
 cd UDA4HeartSeg
 pip install -r requirements.txt
 ```
+
+### Pre-trained Model
+
+Create the `pretrained` folder and download the `mit_b5.pth` pre-trained weight file:
+
+```bash
+mkdir pretrained
+wget -O pretrained/mit_b5.pth https://download.pytorch.org/models/mit_b5.pth
+```
