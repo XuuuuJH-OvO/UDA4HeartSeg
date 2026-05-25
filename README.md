@@ -1,4 +1,4 @@
-# Echo-GCM: Unsupervised Domain Adaptation for Multi-View Echocardiographic Segmentation
+# UDA4HeartSeg
 
 This repository provides the official implementation of our paper:
 
